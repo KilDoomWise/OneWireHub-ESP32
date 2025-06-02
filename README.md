@@ -1,3 +1,6 @@
+# MODIFIED VERSION OF ONEWIREHUB WITH ESP32 SUPPORT FROM KILDOOM
+# МОДИФИЦИРОВАННАЯ ВЕРСИЯ ONEWIREHUB С ПОДДЕРЖКОЙ ESP32 ОТ КИЛДУОМА
+
 # OneWireHub
 
 The OneWireHub is a sleek Arduino compatible (and many more platforms) library to emulate OneWire-Periphery with support for various devices & sensors. The motivation is to offer a shared code base for all OneWire-Periphery-Devices. With a small overhead one µC can emulate up to 32 ICs simultaneously.
