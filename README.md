@@ -1,5 +1,5 @@
 # MODIFIED VERSION OF ONEWIREHUB WITH ESP32 SUPPORT FROM KILDOOM
-# МОДИФИЦИРОВАННАЯ ВЕРСИЯ ONEWIREHUB С ПОДДЕРЖКОЙ ESP32 ОТ КИЛДУОМА
+# МОДИФИЦИРОВАННАЯ ВЕРСИЯ ONEWIREHUB С ПОДДЕРЖКОЙ ESP32 ОТ КИЛДУМА
 
 # OneWireHub
 
